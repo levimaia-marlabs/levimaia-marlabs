@@ -13,6 +13,6 @@ Welcome to my GitHub profile! I'm a passionate and experienced **Senior DevSecOp
 I’m currently focused on delivering high-quality, secure, and resilient solutions at **Marlabs**, where I work with cross-functional teams to ensure that our cloud infrastructure and applications meet stringent security and performance standards.
 
 ## 📫 Connect with Me
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/levi2m)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/levi2m)
 
 Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect with me.
